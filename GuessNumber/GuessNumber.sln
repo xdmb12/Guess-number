@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumber", "GuessNumber\GuessNumber.csproj", "{EC2210DC-0E83-4F47-825D-0B77A0EBF792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumberTest", "GuessNumberTest\GuessNumberTest.csproj", "{4367C4B5-F21E-4AE6-BBB0-024553A8F82A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2210DC-0E83-4F47-825D-0B77A0EBF792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2210DC-0E83-4F47-825D-0B77A0EBF792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2210DC-0E83-4F47-825D-0B77A0EBF792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2210DC-0E83-4F47-825D-0B77A0EBF792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4367C4B5-F21E-4AE6-BBB0-024553A8F82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4367C4B5-F21E-4AE6-BBB0-024553A8F82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4367C4B5-F21E-4AE6-BBB0-024553A8F82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4367C4B5-F21E-4AE6-BBB0-024553A8F82A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
